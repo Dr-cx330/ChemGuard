@@ -1,0 +1,9 @@
+fastapi<1,>=0.110
+uvicorn[standard]<1,>=0.27
+pydantic<3,>=2.6
+openai<3,>=1.40
+gradio<6,>=4.44
+
+[dev]
+pytest<9,>=8
+httpx<1,>=0.27
